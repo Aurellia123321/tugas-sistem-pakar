@@ -2,7 +2,7 @@
 Tugas Sistem Pakar Berbasis antarmuka (Text-based User Interface) dengan Python berjudul Sistem Pakar Rekomendasi Film
 # Kelompok 4
 1. Naufal Oktariliano N. A [25083010014]
-2. Aurellia Putri Magani Trihapsar [25083010064]
+2. Aurellia Putri Magani Trihapsari [25083010064]
 3. Baharil Hikam [25083010120]
 4. Salsabilah N. Izzah [25083010138]
 # Mata Kuliah
